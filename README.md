@@ -5,7 +5,7 @@ It is made following the nice book on the subject by Tanay Pant - [Building a Vi
 
 This is similar though much simplified version of products like [Google Home](https://madeby.google.com/home/) or [Amazon Echo](https://www.amazon.com/echo).
 
-The idea is to use the Raspberry Pi based Virtual Assistant as one of the interfaces for [Amigo chatbot project](https://github.com/sjsucohort6/amigo-chatbot-aws).
+The idea is to use the Raspberry Pi based Virtual Assistant as one of the interfaces for [Amigo chatbot project](https://github.com/sjsucohort6/amigo-chatbot).
 
 Ria uses Google STT (Speech to text) API and espeak on Linux (or say on OSX) for TTS (Text to speech).
 
